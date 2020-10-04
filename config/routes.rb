@@ -7,4 +7,6 @@ Rails.application.routes.draw do
       end
     end
   end
+
+  root 'projects#index'
 end
