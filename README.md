@@ -1,24 +1,37 @@
-# README
+# TO BE UPDATED
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 
-Things you may want to cover:
+# Manage Your Project
 
-* Ruby version
+This is a small project-management app for managing your projects better. 
 
-* System dependencies
+## Contribution guide
 
-* Configuration
+1. Clone the project
+```bash
+  git clone https://github.com/Mesi21/Manage_Your_Project.git
+  cd FileCabinet
+  install the gems by running: `$ bundle install`
+  update the bundle: `$ bundle update`
+  start the server `rails s`
+  open browser: `localhost:3000`
+```
 
-* Database creation
+2. Then :heavy_plus_sign: add your contribution
+3. And Feel free to make a PR
 
-* Database initialization
+## Tehnical tools:
 
-* How to run the test suite
+- Rails
+- Ruby
 
-* Services (job queues, cache servers, search engines, etc.)
+* System dependencies:
+- gems: 
 
-* Deployment instructions
+## Contributors
 
-* ...
+- Emese Molnar [@Mesi21](https://github.com/Mesi21)
+
+### If you like this project don't forgot to support it by giving a :star: 
+
