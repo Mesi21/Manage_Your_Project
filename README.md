@@ -1,24 +1,38 @@
-# README
+<img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Manage Your Project
 
-Things you may want to cover:
+This is a small project-management app for managing your projects better. 
 
-* Ruby version
+## Screenshot
 
-* System dependencies
+![screenshot](app/assets/images/main.png)
+![screenshot](app/assets/images/new_project.png)
+![screenshot](app/assets/images/tasks.png)
 
-* Configuration
+## Contribution guide
 
-* Database creation
+1. Clone the project
+```bash
+  git clone https://github.com/Mesi21/Manage_Your_Project.git
+  cd Manage_Your_Project
+  install the gems by running: `$ bundle install`
+  update the bundle: `$ bundle update`
+  start the server `rails s`
+  open browser: `localhost:3000`
+```
 
-* Database initialization
+2. Then :heavy_plus_sign: add your contribution
+3. And Feel free to make a PR
 
-* How to run the test suite
+## Tehnical tools:
 
-* Services (job queues, cache servers, search engines, etc.)
+- Rails
+- Ruby
 
-* Deployment instructions
+## Contributors
 
-* ...
+- Emese Molnar [@Mesi21](https://github.com/Mesi21)
+
+### If you like this project don't forget to support it by giving a :star: 
+
