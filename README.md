@@ -6,12 +6,18 @@
 
 This is a small project-management app for managing your projects better. 
 
+## Screenshot
+
+![screenshot](app/assets/images/main.png)
+![screenshot](app/assets/images/new_project.png)
+![screenshot](app/assets/images/tasks.png)
+
 ## Contribution guide
 
 1. Clone the project
 ```bash
   git clone https://github.com/Mesi21/Manage_Your_Project.git
-  cd FileCabinet
+  cd Manage_Your_Project
   install the gems by running: `$ bundle install`
   update the bundle: `$ bundle update`
   start the server `rails s`
@@ -26,12 +32,9 @@ This is a small project-management app for managing your projects better.
 - Rails
 - Ruby
 
-* System dependencies:
-- gems: 
-
 ## Contributors
 
 - Emese Molnar [@Mesi21](https://github.com/Mesi21)
 
-### If you like this project don't forgot to support it by giving a :star: 
+### If you like this project don't forget to support it by giving a :star: 
 
